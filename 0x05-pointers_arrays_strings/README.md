@@ -1,0 +1,1 @@
+arrays nd pointers
