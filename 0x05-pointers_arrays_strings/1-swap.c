@@ -8,8 +8,7 @@
  */
 void swap_int(int *a, int *b)
 {
-    int n = *a;
-    *a = *b;
-    b = n;
-    Run with 'code -' to read output from another program(e.g.'echo Hello World | code -').~
+	int n = *a;
+	*a = *b;
+	*b = n;
 }
